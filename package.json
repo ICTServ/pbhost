@@ -1,0 +1,15 @@
+{
+  "name": "pbcloud",
+  "author": "CoTech",
+  "email": "admin@cotech.tech",
+  "license": "MIT",
+  "version": "0.0.1",
+  "private": true,
+  "scripts": {
+    "gen": "node scripts/gen.js",
+    "del": "node scripts/del.js",
+    "res": "node scripts/res.js",
+    "rel": "node scripts/rel.js",
+    "mgt": "node scripts/mgt.js"
+  }
+}
